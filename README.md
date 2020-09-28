@@ -140,7 +140,7 @@ Tomcat位置を指定して、serverブロック内のlocationにコードを追
     grant select on dbスキマ.* to 'アカウント名'@'localhost' identified by 'パスワード';
     grant select on dbスキマ.* to 'アカウント名'@'%' identified by 'パスワード';
     
-#### 4.5.6 修正事項の繁栄
+#### 4.5.5 修正事項の繁栄
     mysql > flush privileges;
     
 ### 4.6 外部接続の設定
