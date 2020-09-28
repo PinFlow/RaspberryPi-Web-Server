@@ -1,12 +1,12 @@
 # LEM＋Tomcat on RaspberryPi
-ラズベリーパイでLEM(Linux, Nginx, MariaDB)＋Tomcatをセットアップして、adress 127.0.0.1にDBにある特定のデータを表示させてみた個人プロジェクトです。
+ラズベリーパイにLEM(Linux, Nginx, MariaDB)＋Tomcatをセットアップして、adress 127.0.0.1にDBにある特定のデータを表示させてみた個人プロジェクトです。
 
 ## 1. 目的
 サーバーをより理解するため、個人的にラズベリーパイでLinuxを使ってみました。
 
 ---
 ## 2.目標
-- ラズベリーパイでLEM+Tomcatの環境構築
+- ラズベリーパイにLEM+Tomcatの環境構築
 - http://localhost にTomcatページを表示
 - http://localhost にデータベースのデータをJSPを使って表示
 
